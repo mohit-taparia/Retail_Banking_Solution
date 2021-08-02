@@ -49,7 +49,6 @@ Here is the description of all the variables :
 |previous| number of contacts performed before this campaign|
 |poutcome| outcome of the previous marketing campaign|
 |Subscribed (target)| has the client subscribed a term deposit?|
-|------------ | -------------|
 
 
 ## Evaluation Metric
@@ -67,3 +66,7 @@ c. Your score will be generated automatically and will be shown in Your
 Accuracy Score column
 You can also check out the baseline Python Notebook provided to get
 started
+
+
+### Screenshots
+![](SC.png)
