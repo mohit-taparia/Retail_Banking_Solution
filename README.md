@@ -32,8 +32,8 @@ Here is the description of all the variables :
 
 |  Variable |  Definition    |
 | ------------ | ----------------- |
-| ID           | Unique Client ID  |
-|age           | Age of the client |
-|job           | Type of job       |
+| ID | Unique Client ID  |
+|age | Age of the client |
+|job | Type of job       |
 marital Marital status of the client
 education Education level
