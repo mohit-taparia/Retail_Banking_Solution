@@ -30,7 +30,7 @@ will subscribe the term deposit.
 ## Data Dictionary
 Here is the description of all the variables :
 
-| ### Variable | ### Definition    |
+|  Variable |  Definition    |
 | ------------ | ----------------- |
 | ID           | Unique Client ID  |
 |age           | Age of the client |
